@@ -1,5 +1,5 @@
 - [Institutes Website](https://www.psych.rwth-aachen.de/cms/PSY/Das-Institut/Kognitions-und-Experimentalpsychologie/Team/~bbwlyl/Luigi-Falanga) 
 - [Research Gate](https://www.researchgate.net/profile/Luigi-Falanga-5) 
 - [ORCID](https://orcid.org/0009-0001-6407-037X) 
-- [LinkedIn](linkedin.com/in/luigi-falanga-168b6718a) 
+- [LinkedIn](https://www.linkedin.com/in/luigi-falanga-168b6718a/) 
 - Email Address: luigi.falanga@psych.rwth.aachen.de
